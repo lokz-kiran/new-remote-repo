@@ -1,0 +1,5 @@
+<project name="sure" default="kiran">
+<target name="kiran">
+<echo> hai baby </echo>
+</target>
+</project>
